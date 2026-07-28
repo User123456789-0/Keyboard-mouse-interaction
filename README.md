@@ -12,4 +12,5 @@ Here is the keybinds:
 - **[Direct link download (v1.1.2)](https://github.com/User123456789-0/Keyboard-mouse-interaction/releases/download/v1.1.2/Keyboard-Mouse-Interaction-Setup-1.1.2.exe)**
 ### Note
 updates are *paused*, **because** we are uploading our *pkgs* to **Microsoft's WinGet**, *and when it is done releasing* to winget, it only haves version *1.0.6*, and we uploaded **1** more **later** version, witch is v1.1.2.<br>
+**VERSION 1.0.6 IS NOW UPLOADED TO WINGET**
 days spent waiting: *1 2 3 4 5 6 7*
