@@ -15,7 +15,7 @@ Keyboard Mouse Interaction lets you control your mouse using only your keyboard.
 ## Download
 
 - **[All releases](https://github.com/User123456789-0/Keyboard-mouse-interaction/releases)**
-- **[Direct download — v1.1.2](https://github.com/User123456789-0/Keyboard-mouse-interaction/releases/download/v1.1.2/Keyboard-Mouse-Interaction-Setup-1.1.2.exe)**
+- **[Direct download — v1.1.2](https://github.com/User123456789-0/Keyboard-mouse-interaction/releases/download/v1.1.6/Keyboard-Mouse-Interaction-Setup-1.1.6.exe)**
 
 ## WinGet Status
 
