@@ -21,8 +21,7 @@ Keyboard Mouse Interaction lets you control your mouse using only your keyboard.
 
 Version **1.0.6** is currently available through WinGet.
 
-Version **1.1.2** has been merged into the WinGet package repository, but it may not yet be visible in the public WinGet index.
-
+Version **1.1.2** has been merged into the WinGet package repository
 ### Waiting time
 
 - Version 1.0.6: **16 days**
@@ -34,3 +33,15 @@ Install version 1.0.6:
 
 ```cmd
 winget install --id User123.KeyboardMouseInteraction --version 1.0.6 --exact
+```
+<br>
+Install version 1.1.2:
+
+```cmd
+winget install --id User123.KeyboardMouseInteraction --version 1.1.2 --exact
+```
+Minimul command (install latest version Winget knows)
+
+```cmd
+winget install User123.KeyboardMouseInteraction -e
+```
