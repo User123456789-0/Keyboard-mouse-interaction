@@ -40,7 +40,7 @@ Install version 1.1.2:
 ```cmd
 winget install --id User123.KeyboardMouseInteraction --version 1.1.2 --exact
 ```
-Minimul command (install latest version Winget knows)
+Minimal command (install latest version Winget knows)
 
 ```cmd
 winget install User123.KeyboardMouseInteraction -e
