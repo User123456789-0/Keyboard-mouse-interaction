@@ -57,5 +57,5 @@ Minimal command (install latest version Winget knows)
 ```cmd
 winget install User123.KeyboardMouseInteraction -e
 ```
-# Windows Defender notice:
+## Windows Defender notice:
 Windows Defender may incorrectly flag key.exe because the app monitors keyboard input and controls mouse movement. This is currently being investigated as a possible false positive. Do not disable your antivirus. You can review the source code and scan the release before installing
