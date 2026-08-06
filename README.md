@@ -19,20 +19,14 @@ Keyboard Mouse Interaction lets you control your mouse using only your keyboard.
 
 ## WinGet Status
 
-Version **1.0.6** is currently available through WinGet.
+Version **1.1.7** has been merged into the WinGet package repository and is the latest version.
 
-Version **1.1.2** has been merged into the WinGet package repository
-
-Version **1.1.6** has beem mearged into the WinGet package respository
-
-Version **1.1.7** has been mearged into the WinGet package respository
 ### Waiting time
 
 - Version 1.0.6: **16 days**
 - Version 1.1.2: **less than one day**
 - Version 1.1.6: **12 days**
-- Version 1.1.7: **less then one day**
-
+- Version 1.1.7: **about 3 hours**
 ## WinGet Commands
 
 Install version 1.0.6:
@@ -63,5 +57,8 @@ Minimal command (install latest version Winget knows)
 ```cmd
 winget install User123.KeyboardMouseInteraction -e
 ```
-## Windows Defender notice:
-Windows Defender may incorrectly flag key.exe because the app monitors keyboard input and controls mouse movement. This is currently being investigated as a possible false positive. Do not disable your antivirus. You can review the source code and scan the release before installing
+## Windows Defender notice
+
+Windows Defender may incorrectly flag `key.exe` because the app monitors keyboard input and controls mouse movement. This is currently being investigated as a possible false positive.
+
+Do not disable your antivirus. You can review the source code and scan the release before installing.
