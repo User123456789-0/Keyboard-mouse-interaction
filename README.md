@@ -27,6 +27,7 @@ Version **1.2.0** has been merged into the WinGet package repository and is the 
 - Version 1.1.2: **less than one day**
 - Version 1.1.6: **12 days**
 - Version 1.1.7: **about 3 hours**
+- Version 1.2.0: **less then an hour**
 ## WinGet Commands
 
 Install version 1.0.6:
